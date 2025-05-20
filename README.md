@@ -18,7 +18,7 @@ Add new books with title, author, and description, and delete them dynamically.
 
 - HTML5
 - CSS3
-- JavaScript (Vanilla)
+- JavaScript 
 
 ---
 
